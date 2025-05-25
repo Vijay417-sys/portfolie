@@ -1,4 +1,4 @@
-// alert("THANK YOU FOR VISITING")
+//alert("THANK YOU FOR VISITING")
 function toggleMenu() {
   const menu = document.querySelector(".menu-links");
   const icon = document.querySelector(".hamburger-icon");
